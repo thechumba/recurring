@@ -1,0 +1,10 @@
+gitignore
+
+__pycache__/
+*.pyc
+.streamlit/
+finance_balance.json
+*.log
+.env
+AppData/
+Cache/
